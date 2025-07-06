@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m a **Full Stack Software Developer**
 
-- 💬 Ask me about **React.js, Frontend Development**
+- 💬 Ask me about **Full-Stack, Cloud, AIML**
 
 - 📫 How to reach me **aadarshanthony0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15XrgOvB_x_Ih11DOU7GTU9XDn4mnQzY0/view?usp=drivesdk](https://drive.google.com/file/d/15XrgOvB_x_Ih11DOU7GTU9XDn4mnQzY0/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dJI4yDejPPn8dxxBbTE5hPKSWOXHz-bQ/view?usp=drivesdk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
